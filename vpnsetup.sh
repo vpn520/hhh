@@ -23,9 +23,9 @@
 # - All values MUST be placed inside 'single quotes'
 # - DO NOT use these special characters within values: \ " '
 
-YOUR_IPSEC_PSK='520'
-YOUR_USERNAME='520'
-YOUR_PASSWORD='520'
+YOUR_IPSEC_PSK='123'
+YOUR_USERNAME='456'
+YOUR_PASSWORD='666'
 
 # =====================================================
 
