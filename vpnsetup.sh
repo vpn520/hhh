@@ -23,8 +23,8 @@
 # - All values MUST be placed inside 'single quotes'
 # - DO NOT use these special characters within values: \ " '
 
-YOUR_IPSEC_PSK='123'
-YOUR_USERNAME='456'
+YOUR_IPSEC_PSK='abc'
+YOUR_USERNAME='qwe'
 YOUR_PASSWORD='666'
 
 # =====================================================
